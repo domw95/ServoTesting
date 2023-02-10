@@ -1,3 +1,4 @@
+%% Creates a lookup sine lookup table
 MAX_VALUE = 100;
 nPOINTS = 256;
 
